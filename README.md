@@ -1,5 +1,4 @@
-# C&B barter bank and platform smart contracts
-
+# Administration and management platform for smart contracts
 
 
 
